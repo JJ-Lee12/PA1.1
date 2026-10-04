@@ -29,3 +29,5 @@ def test_multi_file_commit() -> None:
         "No multi-file commit detected in non-bot commits. "
         "Please make a commit that includes both edited and new markdown files."
     )
+
+print('hello')
